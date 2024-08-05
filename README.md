@@ -1,293 +1,162 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-
-<br/>
-<br/>
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/codeaashu/codeaashu/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
-
-<br/>
-<br/>
-
-
+<!-- Animated girl image -->
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=codeaashu&style=flat&color=blue"/> •   
-  <a href="https://user-badge.committers.top/india_private/codeaashu"><img src="https://user-badge.committers.top/india_private/codeaashu.svg"/></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/codeaashu?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/codeaashu?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
-  <a href="https://github.com/sponsors/codeaashu"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
-
-#
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=codeaashu&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 </p>
 
-#
+<h1 align="center">👋 Hi, I'm Madhu</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-💻-blue" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
+  <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-green" alt="Life Long Learner">
+  <img src="https://img.shields.io/badge/Bibliophile-📚-orange" alt="Bibliophile">
+</p>
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-<br/>
+<p align="center">Welcome to my GitHub profile! I'm a passionate software engineer with expertise in various technologies and a strong interest in coding and building innovative solutions.</p>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h2 align="center">🚀 Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-🌐-orange" alt="Web Development">
+  <img src="https://img.shields.io/badge/Machine%20Learning-⚙️-blue" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-yellow" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Computer%20Vision-👁️-blueviolet" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-green" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Software%20Design%20and%20Development-💡-blueviolet" alt="Software Design and Development">
+</p>
 
-<br/>
-<br/>
+<h2 align="center">🎨 Languages 🌈</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-🐍-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Java-☕-red" alt="Java">
+  <img src="https://img.shields.io/badge/C++-🌟-green" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-💫-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MATLAB-📊-purple" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Git-👩‍💻-orange" alt="Git">
+  <img src="https://img.shields.io/badge/JSX-🚀-cyan" alt="JSX">
+  <img src="https://img.shields.io/badge/HTML5-📝-lightgrey" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-🌈-pink" alt="CSS3">
+  <img src="https://img.shields.io/badge/SCSS-💃-blueviolet" alt="SCSS">
+</p>
+
+<h2 align="center">🧰 Frameworks/Tools 🛠️</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-🅱️-blue" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/ReactJs-⚛️-blue" alt="ReactJs">
+  <img src="https://img.shields.io/badge/Material%20UI-🎨-pink" alt="Material UI">
+  <img src="https://img.shields.io/badge/Styled%20Components-👩‍💻-green" alt="Styled Components">
+  <img src="https://img.shields.io/badge/Express.js-🚀-green" alt="Express.js">
+  <img src="https://img.shields.io/badge/NodeJs-🟩-green" alt="NodeJs">
+  <img src="https://img.shields.io/badge/EJS-📝-lightgrey" alt="EJS">
+  <img src="https://img.shields.io/badge/Django-🐍-blue" alt="Django">
+  <img src="https://img.shields.io/badge/TensorFlow-⚙️-orange" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/OpenCV-👁️-blueviolet" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Keras-🧠-yellow" alt="Keras">
+  <img src="https://img.shields.io/badge/StreamLit-🌈-lightgrey" alt="StreamLit">
+  <img src="https://img.shields.io/badge/Pandas-🐼-green" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-🔢-blue" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-📊-purple" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Scikit--Learn-💻-yellowgreen" alt="Scikit-Learn">
+</p>
 
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"/></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+<h2 align="center">🛠️ Integrated Development Environments (IDEs) 🛠️</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-🚀-blue" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/PyCharm-🐍-orange" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Anaconda-🐍-green" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-📔-blueviolet" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Android%20Studio-📱-green" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-🖥️-blue" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Dev%20C++-💻-blue" alt="Dev C++">
+  <img src="https://img.shields.io/badge/Turbo%20C++-💻-blue" alt="Turbo C++">
+</p>
 
-#
+<h2 align="center">Databases</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-🍃-green" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQL-💾-orange" alt="SQL">
+  <img src="https://img.shields.io/badge/Firebase-🔥-yellow" alt="Firebase">
+</p>
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/></code>
+<h2 align="center">🧠 AI Models 🤖</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4-🤯-blue" alt="GPT-4">
+  <img src="https://img.shields.io/badge/GPT--4--Turbo-💥-orange" alt="GPT-4 Turbo">
+  <img src="https://img.shields.io/badge/DALL·E--3-🎨-purple" alt="DALL·E-3">
+  <img src="https://img.shields.io/badge/Text--to--Speech-🗣️-yellow" alt="Text-to-Speech">
+  <img src="https://img.shields.io/badge/GPT--4--Vision-👁️-purple" alt="GPT-4-Vision">
+  <img src="https://img.shields.io/badge/ClarifAI%20Models-🖼️-pink" alt="ClarifAI">
+  <img src="https://img.shields.io/badge/OpenAI%20Models-🌐-blueviolet" alt="OpenAI">
+</p>
 
+<h2 align="center">🌟 Achievements</h2>
+<ul align="center">
+  <li>Top 6 Finalist, NextGen GPT Hackathon - Ranked among the top 6 out of 47 teams.</li>
+  <li>Recognized as one of the top 36 participants out of 2000 participants.</li>
+  <!-- Add more achievements here -->
+</ul>
 
-<br/>
+<h2 align="center">💌 Let's Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhukalita/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn</a> |
+  <a href="https://x.com/me_madhukalita"><img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="24" height="24" style="vertical-align: middle;"> Twitter</a> |
+  <!-- 🌐 <a href="https://jaweria-b.github.io">Portfolio</a> | -->
+  📧 <a href="madhusingh3809@gmail.com">Email</a>
+</p>
 
-#
+<h2 align="center">💻 Projects</h2>
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+<h3 align="center">Web Development</h3>
+<p align="center">
+  🌐 <a href="https://github.com/jaweria-b/Crwn-Clothing">Crwn-Clothing</a> &nbsp;&nbsp; 🦖 <a href="https://github.com/jaweria-b/Monster-Rolodex">Monster Rolodex</a> <br>
+  🎮 <a href="https://github.com/jaweria-b/Simon-Game">Simon Game</a> &nbsp;&nbsp; 🥁 <a href="https://github.com/jaweria-b/Drum-Kit">Drum Kit</a> <br>
+  🐶 <a href="https://github.com/jaweria-b/TinDog">TinDog</a> &nbsp;&nbsp; 🏖️ <a href="https://github.com/jaweria-b/Tourism-Website">Tourism Website</a>
+</p>
+
+<h3 align="center">Machine Learning</h3>
+<p align="center">
+  🧬 <a href="https://github.com/jaweria-b/DNA-Nucleotide-Count-App">DNA Nucleotide Count App</a> &nbsp;&nbsp; 🌸 <a href="https://github.com/jaweria-b/Iris-Flower-Classification">Iris Flower Classification</a> <br>
+  🐧 <a href="https://github.com/jaweria-b/Palmer-Penguins-Prediction-App">Palmer Penguins Prediction App</a> &nbsp;&nbsp; 💹 <a href="https://github.com/jaweria-b/Stock-Price-App">Stock Price App</a> <br>
+  🏀 <a href="https://github.com/Jaweria-B/eda-basketball">NBA Player Stats Explorer</a> &nbsp;&nbsp; 🏈 <a href="https://github.com/Jaweria-B/NFL-football-stats-explorer">NFL Football Player Stats</a>
+</p>
+
+<h3 align="center">Deep Learning</h3>
+<p align="center">
+  👩‍🔬 <a href="https://github.com/jaweria-b/Face-and-Eyes-Detection-Model">Face and Eyes Detection Model</a>
+</p>
+
+<h3 align="center">AI Models</h3>
+<p align="center">
+  📚 <a href="https://github.com/jaweria-b/StoryVerse-AI">StoryVerse AI</a>
+</p>
+
+<h2 align="center">💼 Hackathon Projects</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-</details>
-<br/>
+  1. 🌆 [Seerah Bot](https://github.com/Jaweria-B/Seerah-App): Simplifying the understanding of the Quran and facilitating reflection on its teachings for everyone. Leveraging MongoDB, Llama Index Generative AI, OpenAI, and RAG feature, it creates a seamless Seerah for non-Arabic speakers. Market Size: 1.3 Billion Muslims who do not speak Arabic. 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
-<h4 align="center">
+  2. 🌟 [Games Gemini Ultra Simulator](https://github.com/Jaweria-B/GamesHackathon): Powered by "The Adaptive Simulation Sandbox" with Gemini's cognitive abilities, this project showcases seamless teamwork and problem-solving in dynamic meeting management. Gemini's achievements in Conceptualization, Agent Personification, Interaction Dynamics, and Synthetic Data Utilization underline its adaptability and value in AI training and beyond. 🚀
   
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
+  3. 🌐 [Virtual Urban Explorer](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+  4. 🌐 [Quranic](https://github.com/jaweria-b/Quranic): An innovative AI-powered application designed to provide users with a comprehensive and precise understanding of the Holy Qur'an. Leveraging advanced technologies such as Aya-101 and Cohere Embed via Cohere API for translation and transcription.
 
-<br/>
+  5. 📊 [HIN Number - Team BREAKING Project](https://github.com/Jaweria-B/HIN-BreakingFree): The HIN Number, defined as the product of Groundedness and Hallucination scores, serves as a new benchmark for assessing LLM interpretive accuracy and adaptability. Explored the impact of guardrails on LLM interaction quality and user engagement.
 
-#
+  6. 🍳 [Kitchen Creators](https://github.com/Jaweria-B/KitchenCreators-App): Introduced Vectara Database, a proprietary system for culinary exploration, powered by the HHEM Model for originality measurement. Utilized Lambda Model's regression analysis for tailored recipe recommendations based on user-provided ingredients.
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+  7. 🍔 [Food Complaint Resolution System](https://github.com/jaweria-b/Food-Complaint-Resolution-System): An AI tool developed for food delivery businesses to handle customer complaints related to received food automatically, reducing human effort and processing time.
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@codeaashu/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
+  8. 📘 [Everdiver](https://github.com/jaweria-b/Everdiver): Leveraging large language models like Falcon, Everdiver enhances Evernote's search functions and builds knowledge from old notes, preserving privacy.
 
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C257%20hrs%2044%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 14.2 MB Used in GitHub's Storage 
- > 
-> 🏆 6,779 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 208 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15979 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-🌆 Daytime                24901 commits       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-🌃 Evening                32004 commits       █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌙 Night                  17389 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12603 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Tuesday                  12628 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Wednesday                12767 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Thursday                 12565 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   12616 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 13147 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Sunday                   13947 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    15 hrs 51 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   15 hrs 51 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-two_factor_authentication10 hrs 3 mins       ████████████████░░░░░░░░░   63.46 % 
-profile                  5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-verified-device          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-💻 Operating System: 
-Windows                  15 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-C++                      20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
-
-
-
-
- Last Updated on 23/07/2024 02:23:50 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@codeaashu/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@codeaashu/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
-
-<h1>
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px"/>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/codeaashu/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/codeaashu" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/codeaashu/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/codeaashu" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
+  9. ☁️ [WeatherWane](https://github.com/Jaweria-B/Weather_Vane): Use AI to build powerful presentations, saving vital time for professionals, students, and collaborators. Create impactful presentations with videos and accompanying music efficiently.
   
-  <a href="https://leetcode.com/codeaashu/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
 </p>
 
-<br/>
-<br/>
+---
+<p align="center">🎉 Congratulations! You've reached the end of my profile. Don't worry, you survived. 🥳 If you're still curious, drop me an <a href="mailto:bjaweria509@gmail.com">email</a>. Let's keep the fun going! 🚀 <br> Remember, debugging is like solving a mystery novel where you're the detective, the culprit, and the victim. 😄 <br> 📚🔍</p>
 
-<div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
-
-![footer](WEBP/footer.webp)
+<!---
+Jaweria-B/Jaweria-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
