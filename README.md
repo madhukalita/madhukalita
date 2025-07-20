@@ -13,7 +13,7 @@
 
 <p align="center">Welcome to my GitHub profile! I'm a passionate software engineer with expertise in various technologies and a strong interest in coding and building innovative solutions.</p>
 
-<h2 align="center">🚀 Skills</h2>
+<!--<h2 align="center">🚀 Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-🌐-orange" alt="Web Development">
   <img src="https://img.shields.io/badge/Machine%20Learning-⚙️-blue" alt="Machine Learning">
@@ -92,14 +92,13 @@
 <ul align="center">
   <li>Top 6 Finalist, NextGen GPT Hackathon - Ranked among the top 6 out of 47 teams.</li>
   <li>Recognized as one of the top 36 participants out of 2000 participants.</li>
-  <!-- Add more achievements here -->
-</ul>
+</ul>-->
 
-<h2 align="center">💌 Let's Connect</h2>
+<!--<h2 align="center">💌 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/madhukalita/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn</a> |
   <a href="https://x.com/me_madhukalita"><img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="24" height="24" style="vertical-align: middle;"> Twitter</a> |
-  <!-- 🌐 <a href="https://jaweria-b.github.io">Portfolio</a> | -->
+  🌐 <a href="https://jaweria-b.github.io">Portfolio</a> | 
   📧 <a href="madhusingh3809@gmail.com">Email</a>
 </p>
 
@@ -153,7 +152,7 @@
 </p>
 
 ---
-<p align="center">🎉 Congratulations! You've reached the end of my profile. Don't worry, you survived. 🥳 If you're still curious, drop me an <a href="mailto:bjaweria509@gmail.com">email</a>. Let's keep the fun going! 🚀 <br> Remember, debugging is like solving a mystery novel where you're the detective, the culprit, and the victim. 😄 <br> 📚🔍</p>
+<p align="center">🎉 Congratulations! You've reached the end of my profile. Don't worry, you survived. 🥳 If you're still curious, drop me an <a href="mailto:bjaweria509@gmail.com">email</a>. Let's keep the fun going! 🚀 <br> Remember, debugging is like solving a mystery novel where you're the detective, the culprit, and the victim. 😄 <br> 📚🔍</p>-->
 
 
 <!---
